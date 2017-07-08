@@ -21,6 +21,6 @@
     "database": "b2efhhawskb86v8k",
     "host": "jj820qt5lpu6krut.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
-    "use_env_variable": "mysql://ken6aforizal9umh:xc9ohcjftjp721f9@jj820qt5lpu6krut.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/b2efhhawskb86v8k"
+    "use_env_variable": "mysql://ooffk02mr36r2pbb:wq998awzzr681ayj@bmsyhziszmhf61g1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/exvcsr65hhuauxrv"
   }
 }
